@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+
+<galleryPackage>
+	<makeup>
+	    
+	   <inFace>
+	    	<general>{ General  Hsieh }</general>
+	    	<infoS>
+	    		General Hsieh, "Testy Catcher" with bat eyes.
+	    		
+	    	</infoS>
+	    	
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Hsien/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>98</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Hsien/2.png</imgURL>
+	            <imageX>140</imageX>   
+	            <imageY>160</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Hsien/3.png</imgURL>
+	            <imageX>265</imageX>   
+	            <imageY>160</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>topDec</imageTitle>
+	            <imgURL>pictures/Hsien/4.png</imgURL>
+	            <imageX>210</imageX>   
+	            <imageY>140</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>mouthT</imageTitle>
+	            <imgURL>pictures/Hsien/7.png</imgURL>
+	            <imageX>186</imageX>   
+	            <imageY>370</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the Mouth decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	         
+	        <imageS>
+	            <imageTitle>mouthW</imageTitle>
+	            <imgURL>pictures/Hsien/8.png</imgURL>
+	            <imageX>158</imageX>   
+	            <imageY>390</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the Mouth decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        
+	       
+	        <imageS>
+	            <imageTitle>noseR</imageTitle>
+	            <imgURL>pictures/Hsien/6.png</imgURL>
+	            <imageX>253</imageX>   
+	            <imageY>340</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>noseL</imageTitle>
+	            <imgURL>pictures/Hsien/5.png</imgURL>
+	            <imageX>193</imageX>   
+	            <imageY>340</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        
+	        
+	    </inFace>
+	    
+	   
+	    <inFace>
+	    	<general>{ General  Gan }</general>
+	    	<infoS>
+	    		General Gan 
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Gan/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>97</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>TopDecR</imageTitle>
+	            <imgURL>pictures/Gan/2.png</imgURL>
+	            <imageX>244</imageX>   
+	            <imageY>135</imageY>
+	            <scaled>.36</scaled>
+	            <shortInfo>
+	                <shortInfoText>the top Dec Gan</shortInfoText>
+	                <shortInfoX>180</shortInfoX>
+	                <shortInfoY>30</shortInfoY>
+	            </shortInfo>
+	            
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>TopDecL</imageTitle>
+	            <imgURL>pictures/Gan/3.png</imgURL>
+	            <imageX>132</imageX>   
+	            <imageY>134</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Gan/4.png</imgURL>
+	            <imageX>263</imageX>   
+	            <imageY>220</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Gan/5.png</imgURL>
+	            <imageX>114</imageX>   
+	            <imageY>220</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	 
+	    <inFace>
+	    	<general>{ Summer  Deity }</general>
+	    	<infoS>
+	    		Summer Deity:
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Fall/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>97</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>topDec</imageTitle>
+	            <imgURL>pictures/Fall/2.png</imgURL>
+	            <imageX>178</imageX>   
+	            <imageY>133</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the top Dec Fall</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Fall/3.png</imgURL>
+	            <imageX>253</imageX>   
+	            <imageY>180</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Fall/4.png</imgURL>
+	            <imageX>126</imageX>   
+	            <imageY>180</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+    
+	    
+	</makeup>
+	
+	
+	
+</galleryPackage>

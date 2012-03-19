@@ -1,0 +1,1 @@
+﻿package  {		import DrawingMakeup0720;	import flash.display.MovieClip;		public class Example extends MovieClip{		private var UI:DrawingMakeup0720;				public function Example() {			// constructor code			UI = new DrawingMakeup0720();			addChild(UI);											}			}	}
