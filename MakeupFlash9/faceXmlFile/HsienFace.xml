@@ -1,0 +1,546 @@
+<?xml version="1.0" ?>
+
+<galleryPackage>
+	<makeup>
+	    
+	   <inFace>
+	    	<general>{ General  Hsieh }</general>
+	    	<infoS>
+	    		General Hsieh, "Testy Catcher" with bat eyes.
+	    		
+	    	</infoS>
+	    	
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Hsien/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>98</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Hsien/2.png</imgURL>
+	            <imageX>138</imageX>   
+	            <imageY>162</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Hsien/3.png</imgURL>
+	            <imageX>270</imageX>   
+	            <imageY>163</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	        </imageS>
+	        
+	        
+	        <imageS>
+	            <imageTitle>BatL</imageTitle>
+	            <imgURL>pictures/Hsien/batL.png</imgURL>
+	            <imageX>110</imageX>   
+	            <imageY>192</imageY>
+	            <scaled>.21</scaled>
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>batR</imageTitle>
+	            <imgURL>pictures/Hsien/batR.png</imgURL>
+	            <imageX>325</imageX>   
+	            <imageY>193</imageY>
+	            <scaled>.21</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>topDec</imageTitle>
+	            <imgURL>pictures/Hsien/4.png</imgURL>
+	            <imageX>210</imageX>   
+	            <imageY>140</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>mouthT</imageTitle>
+	            <imgURL>pictures/Hsien/78.png</imgURL>
+	            <imageX>158</imageX>   
+	            <imageY>360</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the Mouth decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	       
+	        <imageS>
+	            <imageTitle>noseR</imageTitle>
+	            <imgURL>pictures/Hsien/6.png</imgURL>
+	            <imageX>248</imageX>   
+	            <imageY>340</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>noseL</imageTitle>
+	            <imgURL>pictures/Hsien/5.png</imgURL>
+	            <imageX>197</imageX>   
+	            <imageY>340</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        
+	        
+	    </inFace>
+	    
+	    
+	    
+	    <inFace>
+	    	<general>{ General  Fan }</general>
+	    	<infoS>
+	    		General  Fan:
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Fan/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>97</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>topDec</imageTitle>
+	            <imgURL>pictures/Fan/topM.png</imgURL>
+	            <imageX>208</imageX>   
+	            <imageY>133</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the center Dec</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>topDL</imageTitle>
+	            <imgURL>pictures/Fan/topL.png</imgURL>
+	            <imageX>112</imageX>   
+	            <imageY>170</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>topDR</imageTitle>
+	            <imgURL>pictures/Fan/topR.png</imgURL>
+	            <imageX>278</imageX>   
+	            <imageY>170</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeDL</imageTitle>
+	            <imgURL>pictures/Fan/eyeL.png</imgURL>
+	            <imageX>112</imageX>   
+	            <imageY>240</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeDR</imageTitle>
+	            <imgURL>pictures/Fan/eyeR.png</imgURL>
+	            <imageX>270</imageX>   
+	            <imageY>240</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        
+	        <imageS>
+	            <imageTitle>MidDec</imageTitle>
+	            <imgURL>pictures/Fan/decIn.png</imgURL>
+	            <imageX>208</imageX>   
+	            <imageY>280</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the center Dec</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+	        
+	        
+	        <imageS>
+	            <imageTitle>MidDec</imageTitle>
+	            <imgURL>pictures/Fan/Mouse.png</imgURL>
+	            <imageX>140</imageX>   
+	            <imageY>350</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the center Dec</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+	        
+	        
+	         <imageS>
+	            <imageTitle>cirDL</imageTitle>
+	            <imgURL>pictures/Fan/cirDL.png</imgURL>
+	            <imageX>148</imageX>   
+	            <imageY>325</imageY>
+	            <scaled>.33</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>cirDR</imageTitle>
+	            <imgURL>pictures/Fan/cirDR.png</imgURL>
+	            <imageX>280</imageX>   
+	            <imageY>325</imageY>
+	            <scaled>.33</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>fireDL</imageTitle>
+	            <imgURL>pictures/Fan/FireDL.png</imgURL>
+	            <imageX>110</imageX>   
+	            <imageY>300</imageY>
+	            <scaled>.33</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>fireDR</imageTitle>
+	            <imgURL>pictures/Fan/FireDR.png</imgURL>
+	            <imageX>320</imageX>   
+	            <imageY>300</imageY>
+	            <scaled>.33</scaled>
+	        </imageS>
+	        
+	    </inFace>
+	    
+	   
+	    <inFace>
+	    	<general>{ General  Gan }</general>
+	    	<infoS>
+	    		General Gan 
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Gan/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>97</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>TopDecR</imageTitle>
+	            <imgURL>pictures/Gan/2.png</imgURL>
+	            <imageX>241</imageX>   
+	            <imageY>136</imageY>
+	            <scaled>.34</scaled>
+	            <shortInfo>
+	                <shortInfoText>the top Dec Gan</shortInfoText>
+	                <shortInfoX>180</shortInfoX>
+	                <shortInfoY>30</shortInfoY>
+	            </shortInfo>
+	            
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>TopDecL</imageTitle>
+	            <imgURL>pictures/Gan/3.png</imgURL>
+	            <imageX>137</imageX>   
+	            <imageY>136</imageY>
+	            <scaled>.34</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Gan/4.png</imgURL>
+	            <imageX>263</imageX>   
+	            <imageY>220</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Gan/5.png</imgURL>
+	            <imageX>114</imageX>   
+	            <imageY>220</imageY>
+	            <scaled>.36</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>mouse</imageTitle>
+	            <imgURL>pictures/Gan/7.png</imgURL>
+	            <imageX>145</imageX>   
+	            <imageY>350</imageY>
+	            <scaled>.23</scaled>
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>DecL</imageTitle>
+	            <imgURL>pictures/Gan/9.png</imgURL>
+	            <imageX>110</imageX>   
+	            <imageY>276</imageY>
+	            <scaled>.3</scaled>
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>DecR</imageTitle>
+	            <imgURL>pictures/Gan/8.png</imgURL>
+	            <imageX>278</imageX>   
+	            <imageY>295</imageY>
+	            <scaled>.3</scaled>
+	        </imageS>
+	        
+	        
+	    </inFace>
+	    
+	    
+	    <inFace>
+	    	<general>{ General  Liu }</general>
+	    	<infoS>
+	    		General Liu
+	    		
+	    	</infoS>
+	    	
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Liu/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>98</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Liu/eyeL.png</imgURL>
+	            <imageX>138</imageX>   
+	            <imageY>214</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Liu/eyeR.png</imgURL>
+	            <imageX>192</imageX>   
+	            <imageY>163</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	        </imageS>
+	        
+
+	        <imageS>
+	            <imageTitle>Dec</imageTitle>
+	            <imgURL>pictures/Liu/dec.png</imgURL>
+	            <imageX>235</imageX>   
+	            <imageY>143</imageY>
+	            <scaled>.34</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the eyes represent bats</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	        </imageS>
+
+	        
+	         <imageS>
+	            <imageTitle>mouthT</imageTitle>
+	            <imgURL>pictures/Liu/mouse.png</imgURL>
+	            <imageX>150</imageX>   
+	            <imageY>340</imageY>
+	            <scaled>.35</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the Mouth decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        
+	        
+	    </inFace>
+	 
+	    <inFace>
+	    	<general>{ Summer  Deity }</general>
+	    	<infoS>
+	    		Summer Deity:
+	    	</infoS>
+	    	<imageS>
+	            <imageTitle>faceBack</imageTitle>
+	            <imgURL>pictures/Fall/1.png</imgURL>
+	            <clickable>0</clickable>
+	            <imageX>97</imageX>   
+	            <imageY>130</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>topDec</imageTitle>
+	            <imgURL>pictures/Fall/2.png</imgURL>
+	            <imageX>178</imageX>   
+	            <imageY>133</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the top Dec Fall</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeR</imageTitle>
+	            <imgURL>pictures/Fall/3.png</imgURL>
+	            <imageX>253</imageX>   
+	            <imageY>180</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+
+	        <imageS>
+	            <imageTitle>eyeL</imageTitle>
+	            <imgURL>pictures/Fall/4.png</imgURL>
+	            <imageX>126</imageX>   
+	            <imageY>180</imageY>
+	            <scaled>.37</scaled>
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>DedL</imageTitle>
+	            <imgURL>pictures/Fall/6.png</imgURL>
+	            <imageX>105</imageX>   
+	            <imageY>250</imageY>
+	            <scaled>.34</scaled>
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>DecR</imageTitle>
+	            <imgURL>pictures/Fall/5.png</imgURL>
+	            <imageX>265</imageX>   
+	            <imageY>250</imageY>
+	            <scaled>.34</scaled>
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>mouth</imageTitle>
+	            <imgURL>pictures/Fall/8.png</imgURL>
+	            <imageX>150</imageX>   
+	            <imageY>405</imageY>
+	            <scaled>.37</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the Mouth decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>noseR</imageTitle>
+	            <imgURL>pictures/Fall/noseR.png</imgURL>
+	            <imageX>250</imageX>   
+	            <imageY>370</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                <shortInfoX></shortInfoX>
+	                <shortInfoY></shortInfoY>
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	        <imageS>
+	            <imageTitle>noseL</imageTitle>
+	            <imgURL>pictures/Fall/noseL.png</imgURL>
+	            <imageX>180</imageX>   
+	            <imageY>370</imageY>
+	            <scaled>.4</scaled>
+	            
+	            <shortInfo>
+	                <shortInfoText>the N decoration represents</shortInfoText>
+	                
+	            </shortInfo>
+	  
+	        </imageS>
+	        
+	         <imageS>
+	            <imageTitle>MidDec</imageTitle>
+	            <imgURL>pictures/Fall/9.png</imgURL>
+	            <imageX>200</imageX>   
+	            <imageY>460</imageY>
+	            <scaled>.37</scaled>
+	            <shortInfo>
+	                <shortInfoText>the center Dec</shortInfoText>
+	            </shortInfo>
+	            
+	        </imageS>
+	        
+	    </inFace>
+    
+	    
+	</makeup>
+	
+	
+	
+</galleryPackage>

@@ -1,0 +1,139 @@
+
+<!-- saved from url=(0014)about:internet -->
+ <html lang="en">
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <title>JiaJiangDonMakeup</title>
+ 
+ 		<style>
+			body 
+			{
+				background-color:#080401;
+			}
+		 	#wrapper
+		 	{
+    			width:1250;
+    			
+    			margin:0 auto;
+    			top:0;
+    		}
+		</style>
+ 		
+
+		<script src="http://connect.facebook.net/en_US/all.js"></script>
+		<script type="text/javascript">
+  
+  
+    		function connectToFB(imageID)
+   		 {
+    			console.log("here");
+    			//alert(imageID);
+  				FB.init({
+    				appId  : '215346385194259',
+    				status : true, // check login status
+    				cookie : true, // enable cookies to allow the server to access the session
+    				xfbml  : true, // parse XFBML
+    				channelURL : 'http://sunny.chunhuanglo.com/testSendtoTable/AS_JSTest1011JIA/channel.html', // channel.html file
+    				oauth  : true // enable OAuth 2.0
+  				});
+		
+				FB.login(function(response) {
+						if (response.authResponse)
+						{
+							alert('logged in! ' + imageID);
+							testFB(imageID);
+						}
+						else
+						{
+								var str = '';
+  								for (at in response.error)
+  								{
+  									str += at + ': ' + response.error[at] + '\n';
+  								}
+  						
+    							alert('Error occured: ' + str);				
+					
+						}	
+					}, {scope: 'email,publish_stream'});
+		
+				// testFB(imageID);
+			}
+	
+			function testFB(imageID)
+			{
+				var body = 'JIaJiang';
+				var url = 'http://sunny.chunhuanglo.com/testSendtoTable/AS_JSTest1011JIA/show_image.php?img_id=' + imageID;
+				FB.api('/me/feed', 'post', 
+						{ message: body,
+				 		picture: url}, 
+						function(response) {
+  							if (!response || response.error) {
+  								var str = '';
+  								for (at in response.error)
+  								{
+  									str += at + ': ' + response.error[at] + '\n';
+  								}
+  						
+    							alert('Error occured: ' + str);
+  							} else {
+    							alert('Post ID: ' + response.id);
+  							}
+						});
+			}
+     
+     		var jsReady = false;
+     		function isReadydd() 
+     		{
+         		return jsReady;
+     		}
+     		function pageInit() 
+     		{
+         		jsReady = true;
+         		document.forms["form1"].output.value += "\n" + "JavaScript is ready3.\n";
+     		}
+     		function thisMovie(movieName) 
+     		{
+         		if (navigator.appName.indexOf("Microsoft") != -1) 
+		 		{
+             		return window[movieName];
+         		} 
+		 		else 
+		 		{
+             		return document[movieName];
+         		}
+     		}
+     
+     		function sendToJavaScript(value) 
+     		{
+         		document.forms["form1"].output.value += "ActionScript says: " + value + "\n";
+     		}
+ 		</script>
+ </head>
+ <body onLoad="pageInit();">
+  <div id="fb-root"></div>
+ 
+     <div id ="wrapper" align="center">
+     <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="1250" height="1000" id="JiaJiangwholeTest" align="middle">
+				<param name="movie" value="prloader2.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#080401" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="window" />
+				<param name="scale" value="showall" />
+				<param name="menu" value="true" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="" />
+				<param name="allowScriptAccess" value="always" />
+			
+         <embed src="prloader2.swf" quality="high" bgcolor="#080401"
+             width="1250" height="900" name="ExternalInterfaceExample" align="middle"
+             play="true" loop="false" quality="high" allowScriptAccess="always"
+             type="application/x-shockwave-flash"
+             pluginspage="http://www.macromedia.com/go/getflashplayer">
+         </embed>
+     </object>
+    </div>
+ 
+ </body>
+ </html>
